@@ -9,6 +9,7 @@
  Also there find_next_url function for both author and book that decides the next web page to scrape.
  * There are functions that can convert attribute into json or convert json into a tuple pf attributes.
  * database can be exported into json file and json file can be imported into database.
+ * implemented multi-thread to speed up the process of scraping
 
 ## Usage
 
